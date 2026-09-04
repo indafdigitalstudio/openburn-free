@@ -1,0 +1,5 @@
+Semua font di folder ini berlisensi SIL Open Font License 1.1 (OFL), diambil dari
+https://github.com/google/fonts (folder ofl/). Teks lisensi: OFL-OpenSans.txt (identik untuk semua font OFL).
+
+Open Sans, Roboto, Lato, Poppins, Montserrat, Oswald, Bebas Neue, Playfair Display,
+Roboto Mono, Pacifico, Lobster, Dancing Script, Great Vibes, Amiri.
