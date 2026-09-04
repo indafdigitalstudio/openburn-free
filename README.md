@@ -67,6 +67,7 @@ npm run desktop:build   # installer: src-tauri/target/release/bundle/nsis/
 
 ## Rilis
 
+- **1.0.2** (2026-09-04): logo naga versi tajam (sumber SVG baru).
 - **1.0.1** (2026-09-04): ikon aplikasi dan tanda merek memakai logo naga OpenBurn.
 - **1.0.0** (2026-09-04): rilis pertama versi Free.
 

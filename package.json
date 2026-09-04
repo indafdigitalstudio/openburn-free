@@ -1,6 +1,6 @@
 {
   "name": "openburn-free",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "OpenBurn Free - perangkat lunak laser cutter/engraver open-source untuk mesin GRBL",
   "license": "MIT",
   "type": "module",
