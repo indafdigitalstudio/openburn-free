@@ -137,7 +137,7 @@ export function generateJob(input: JobInput): JobResult {
     ? invOriginOf(machine, bounds)
     : invOrigin(machine);
 
-  em.comment(`OpenBurn Free v1.0 - ${new Date().toISOString()}`);
+  em.comment(`OpenBurn Free v1.0.1 - ${new Date().toISOString()}`);
   em.comment(`Mesin: ${machine.name} (${machine.width}x${machine.height} mm, origin ${machine.origin}, S max ${machine.sMax})`);
   em.raw('G21 G90 G17 G94');
   em.raw('M5');

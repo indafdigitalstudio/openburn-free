@@ -20,7 +20,7 @@ const LS_LAYERS = 'openburn.layers';
 
 const TEMPLATE = `
 <div class="menubar">
-  <div class="brand"><span class="dot"></span>OpenBurn</div>
+  <div class="brand"><img src="./logo.svg" alt="" class="logo">OpenBurn</div>
   <button id="btnNew" title="Proyek baru">Baru</button>
   <button id="btnOpen" title="Buka proyek (.obp)">Buka</button>
   <button id="btnSave" title="Simpan proyek (.obp)">Simpan</button>

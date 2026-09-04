@@ -65,6 +65,11 @@ npm run desktop:dev
 npm run desktop:build   # installer: src-tauri/target/release/bundle/nsis/
 ```
 
+## Rilis
+
+- **1.0.1** (2026-09-04): ikon aplikasi dan tanda merek memakai logo naga OpenBurn.
+- **1.0.0** (2026-09-04): rilis pertama versi Free.
+
 ## Alur kerja singkat
 
 1. **Pengaturan Mesin**: ukuran area, origin, S max sesuai `$30` GRBL.
